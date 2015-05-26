@@ -1,0 +1,91 @@
+div#header{
+ widht:800px;
+  height:135px;
+background-image: url("img/logo.jpg");
+}
+#space{
+margin-top: -100px;
+}
+#form{
+ width: 470px;
+ padding: 0 5px;
+ margin: 0 auto;
+ height: 100%;
+ }
+body{
+ font-family: "Open Sans", Arial, sans-serif;
+ font-size: 13px;
+ font-weight: 150;
+ color: #333;
+ background-color: #BBD213 ;
+ }
+ input{
+ width: 100%;
+ height: 25px;
+ font: 300 16px "Open Sans", Arial, sans-serif;
+ margin: 5px 0 10px 0;
+}
+
+#formulario{
+float: left;
+margin-left: 50px;
+background-color: white;
+}
+#color{
+ background-color: #BBD213 ;
+}
+#formulariodata{
+float: center;
+margin-left: 200px;
+margin-right: 330px;
+}
+#formulario2{
+float: right;
+margin-right: 50px;
+background-color: white;
+}
+#publicaciones{
+margin-left: 430px;
+width: 530px;
+background-color: white;
+margin-top: 40px;
+}
+#pu{
+margin-top: -250px;
+}
+
+input[type=submit]{
+ background-color:#FF9900;
+ height:40px;
+ margin-left: 40px;
+ width:230px;
+ //border:none;
+ font-weight:400;
+ letter-spacing:2px;
+ color:#FFFFFF;
+ }
+ input[type=file]{
+ margin-left: 470px;
+ }
+ #paneled{
+ margin-top: 100px;
+ margin-left: 150px;
+ width: 350px;
+ background-color: white;
+ }
+ #user{
+ float: right;
+ }
+ #pub{
+ float: left;
+ margin-top: 25px;
+ }
+ #img{
+ margin-top: 30px;
+ margin-left: 40px;
+ margin-right: 100px;
+ }
+ #bot{
+ float: left;
+ margin-left: 44px;
+ }
